@@ -1,0 +1,28 @@
+body {
+   font-size: 25px;
+   font-family:Arial, sans-serif;
+} 
+header{
+    background-color:#414181 ;
+}
+nav{
+    background-color: blueviolet;
+}
+main{
+    background-color: pink;
+    font-size:25px;
+}
+footer{background-color: palegreen;
+}
+li{display: inline-block;
+    width:30%
+}
+h1 {
+    text-align: center;
+    font-family:Arial, sans-serif;
+    color: pink;
+}
+p {
+   line-height: 150%;   
+}
+
