@@ -3,13 +3,13 @@ body {
    font-family:Arial, sans-serif;
 } 
 header{
-    background-color:#414181 ;
+    background-color:palegreen ;
 }
 
 nav{
     display:inline-block;
     width:80%;
-    /*background-color: blueviolet;*/
+   
 }
 
 .current{
@@ -47,7 +47,7 @@ li{display: inline-block;
 h1 {
     text-align: center;
     font-family:Arial, sans-serif;
-    color: rgb(147, 34, 53);
+    color: rgb(144, 32, 51);
 }
 
 p {
